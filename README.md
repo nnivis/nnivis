@@ -20,7 +20,7 @@ My current focus is building maintainable Unity projects, reusable gameplay syst
   - JSON saves, localization, debugging
   - Addressables and project optimization
 
-## Featured projects
+## Personal projects
 
 - **MeowDice** — turn-based dice board game with AI, layered architecture, VContainer DI, and game flow/state management.
 - **VoidDice** — experimental dice-based Unity prototype.
@@ -29,8 +29,28 @@ My current focus is building maintainable Unity projects, reusable gameplay syst
 
 ## Stack
 
-Unity · C# · UniTask · VContainer · Zenject · DoTween · Newtonsoft.Json · Addressables · Git  
-Three.js · JavaScript · Python · Blender · Meta Quest 3 · Yandex SDK · CAS
+### Core
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Unity / Game Development
+![UniTask](https://img.shields.io/badge/UniTask-2C5BB4?style=flat)
+![VContainer](https://img.shields.io/badge/VContainer-5C2D91?style=flat)
+![Zenject](https://img.shields.io/badge/Zenject-5C2D91?style=flat)
+![DoTween](https://img.shields.io/badge/DoTween-00A86B?style=flat)
+![Addressables](https://img.shields.io/badge/Addressables-222222?style=flat)
+![Newtonsoft.Json](https://img.shields.io/badge/Newtonsoft.Json-004880?style=flat)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
+
+### XR / 3D / Tools
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=flat&logo=meta&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Web / Other
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Current focus
 
