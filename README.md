@@ -1,4 +1,4 @@
-# nnivis
+# Yana
 
 Unity Developer with almost 3 years of commercial experience in game development, MR/VR, SDK integrations, optimization, and gameplay systems.
 
