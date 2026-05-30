@@ -1,70 +1,61 @@
-# Yana
+<div align="center">
 
-Unity Developer with almost 3 years of commercial experience in game development, MR/VR, SDK integrations, optimization, and gameplay systems.
+## Yana Shushkina
 
-I work with Unity/C#, project architecture, data-driven systems, performance optimization, and development tools.  
-My current focus is building maintainable Unity projects, reusable gameplay systems, and small tools that improve production workflows.
+Unity Developer · 3 years commercial · Games & MR/VR
 
-## Commercial experience
+[![Telegram](https://img.shields.io/badge/Telegram-@nuntiusnivis-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nuntiusnivis)
+[![Email](https://img.shields.io/badge/Email-nuntiusnivis@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nuntiusnivis@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-nuntiusnivis-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://nuntiusnivis.itch.io/)
 
-- Lead 3D Developer at KARTOTEKA/VIDOTEKA
-  - Solo development of MR/VR application for Meta Quest 3
-  - Unity feature development and integrations
-  - Web 3D editor development with Three.js
-  - Blender add-ons for production pipeline automation
-  - Performance and stability optimization
-
-- Unity Developer at Persona Game Studio
-  - End-to-end Unity project development
-  - SDK integrations: Yandex SDK, CAS mediation
-  - JSON saves, localization, debugging
-  - Addressables and project optimization
-
-## Personal projects
-
-- **MeowDice** — turn-based dice board game with AI, layered architecture, VContainer DI, and game flow/state management.
-- **VoidDice** — experimental dice-based Unity prototype.
-- **SnapObject** — object snapping / interaction prototype in Unity.
-- **Tiger Run Clicker** — technical task / clicker prototype.
-
-## Stack
-
-### Core
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Unity / Game Development
-![UniTask](https://img.shields.io/badge/UniTask-2C5BB4?style=flat)
-![VContainer](https://img.shields.io/badge/VContainer-5C2D91?style=flat)
-![Zenject](https://img.shields.io/badge/Zenject-5C2D91?style=flat)
-![DoTween](https://img.shields.io/badge/DoTween-00A86B?style=flat)
-![Addressables](https://img.shields.io/badge/Addressables-222222?style=flat)
-![Newtonsoft.Json](https://img.shields.io/badge/Newtonsoft.Json-004880?style=flat)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
-
-### XR / 3D / Tools
-![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=flat&logo=meta&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Web / Other
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-## Current focus
-
-- Unity gameplay architecture
-- reusable systems and tools
-- MR/VR development
-- optimization and maintainability
-- portfolio-ready project documentation
-
-## Links
-
-- GitHub: https://github.com/nnivis
-- itch.io: https://nuntiusnivis.itch.io/
+</div>
 
 ---
 
-Some repositories use internal date/id markers in their names because this GitHub also serves as my personal project archive.
+Middle Unity Developer with 3 years of commercial experience building mobile games and MR/VR applications.  
+Currently doing solo development of a Meta Quest 3 real estate visualization app at KARTOTEKA/VIDOTEKA.
+
+I focus on maintainable architecture — layered design, DI containers, async/await with UniTask.  
+Projects I write are easy to extend and reason about.
+
+---
+
+## Stack
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Unity ecosystem:** VContainer · Zenject · UniTask · DOTween · Addressables · Newtonsoft.Json  
+**Integrations:** Yandex SDK · CAS · glTFast · Meta XR SDK  
+**Other:** Three.js · WebGL · URP
+
+---
+
+## Projects
+
+| | Project | What it is |
+|---|---|---|
+| 🎲 | [MeowDice](https://github.com/nnivis/meowdice) | Turn-based dice strategy for 2 players. Layered architecture, async game loop, VS AI. |
+| 🐯 | [Tiger Run Clicker](https://github.com/nnivis/tiger-run-clicker) | Idle clicker with passive economy. State machine, presenter pattern, persistent saves. |
+| 🛋️ | [Furniture Constructor](https://github.com/nnivis/furniture-constructor) | Runtime 3D configurator. Data-driven UI, blend shapes, material/style switching. |
+
+---
+
+## Experience
+
+**Unity Developer** · [KARTOTEKA/VIDOTEKA](https://www.kartoteka.digital/) · Nov 2024 – present  
+Solo MR/VR app for Meta Quest 3 · web 3D editor (Three.js) · Blender pipeline automation
+
+**Unity Developer** · Persona Game Studio · Jun 2023 – Nov 2024  
+Full-cycle game development · Yandex SDK + CAS · Addressables · performance optimization
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnivis&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+
+</div>
