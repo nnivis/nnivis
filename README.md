@@ -28,7 +28,7 @@ Projects I write are easy to extend and reason about.
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Unity ecosystem:** VContainer · Zenject · UniTask · DOTween · Addressables · Newtonsoft.Json  
+**Unity Ecosystem:** VContainer · Zenject · UniTask · DOTween · Addressables · Newtonsoft.Json  
 **Integrations:** Yandex SDK · CAS · glTFast · Meta XR SDK  
 **Other:** Three.js · WebGL · URP
 
@@ -46,16 +46,12 @@ Projects I write are easy to extend and reason about.
 
 ## Experience
 
-**Unity Developer** · [KARTOTEKA/VIDOTEKA](https://www.kartoteka.digital/) · Nov 2024 – present  
+**Unity Developer** · [Kartoteka](https://www.kartoteka.digital/), [Vidoteka](https://vidoteka.ru/) · Nov 2024 – present  
 Solo MR/VR app for Meta Quest 3 · web 3D editor (Three.js) · Blender pipeline automation
 
 **Unity Developer** · Persona Game Studio · Jun 2023 – Nov 2024  
 Full-cycle game development · Yandex SDK + CAS · Addressables · performance optimization
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnivis&show_icons=true&theme=dark&hide_border=true&hide_title=true)
 
 </div>
