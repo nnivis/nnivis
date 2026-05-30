@@ -49,7 +49,7 @@ Projects I write are easy to extend and reason about.
 **Unity Developer** · [Kartoteka](https://www.kartoteka.digital/), [Vidoteka](https://vidoteka.ru/) · Nov 2024 – present  
 Solo MR/VR app for Meta Quest 3 · web 3D editor (Three.js) · Blender pipeline automation
 
-**Unity Developer** · Persona Game Studio · Jun 2023 – Nov 2024  
+**Unity Developer** · [Persona Game Studio](https://persona.games/) · Jun 2023 – Nov 2024  
 Full-cycle game development · Yandex SDK + CAS · Addressables · performance optimization
 
 ---
