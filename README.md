@@ -12,7 +12,7 @@ Unity Developer · 3 years commercial · Games & MR/VR
 
 ---
 
-Middle Unity Developer with 3 years of commercial experience building mobile games and MR/VR applications.  
+Unity Developer with 3 years of commercial experience building mobile games and MR/VR applications.  
 Currently doing solo development of a Meta Quest 3 real estate visualization app at KARTOTEKA/VIDOTEKA.
 
 I focus on maintainable architecture — layered design, DI containers, async/await with UniTask.  
