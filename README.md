@@ -2,7 +2,7 @@
 
 ## Yana Shushkina
 
-Unity Developer · 3 years commercial · Games & MR/VR
+ C# / Unity Developer · 3 years commercial · Games & MR/VR
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nuntiusnivis-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nuntiusnivis)
 [![Email](https://img.shields.io/badge/Email-nuntiusnivis@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nuntiusnivis@gmail.com)
