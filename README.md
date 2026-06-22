@@ -29,6 +29,7 @@ Projects I write are easy to extend and reason about.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Unity Ecosystem:** VContainer · Zenject · UniTask · DOTween · Addressables · Newtonsoft.Json  
+**Web / Backend:** ASP.NET Core · EF Core · PostgreSQL · Three.js
 **Integrations:** Yandex SDK · CAS · glTFast · Meta XR SDK  
 **Other:** Three.js · WebGL · URP
 
