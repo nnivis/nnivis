@@ -44,6 +44,14 @@ Projects I write are easy to extend and reason about.
 
 ---
 
+## Full-Stack Projects
+
+| | Project | What it is |
+|---|---|---|
+| 📚 | [Bookshelf](https://github.com/nnivis/bookshelf_2006id) | Book tracking web app with 3D shelf. ASP.NET Core 10 · EF Core · Three.js |
+
+---
+
 ## Experience
 
 **Unity Developer** · [Kartoteka](https://www.kartoteka.digital/), [Vidoteka](https://vidoteka.ru/) · Nov 2024 – present  
